@@ -1,0 +1,12 @@
+
+
+int kadane(int a[],int n)
+{
+int curr_max=a[0],overall_max=a[0];
+for(int i=1;i<n;++i)
+{
+curr_max=a[i]+max(curr_max,0);
+overall_max=max(overall_max,curr_max);
+}
+return overall_max;
+}
