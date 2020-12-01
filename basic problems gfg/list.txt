@@ -1,0 +1,109 @@
+Ugly numbers
+Fibonacci numbers
+nth Catalan Number
+Bell Numbers (Number of ways to Partition a Set)
+Binomial Coefficient
+Permutation Coefficient
+Tiling Problem
+Gold Mine Problem
+Coin change problem
+Friends Pairing Problem
+Subset Sum Problem
+Subset Sum Problem in O(sum) space
+Subset with sum divisible by m
+Largest divisible pairs subset
+Perfect Sum Problem (Print all subsets with given sum)
+Compute nCr % p
+Choice of area
+Cutting a Rod
+Tiling with Dominoes
+Painting Fence Algorithm
+Newman–Shanks–Williams prime
+Assembly line scheduling
+Golomb sequence
+Moser-de Bruijn Sequence
+Newman-Conway Sequence
+Find maximum length Snake sequence
+Print n terms of Newman-Conway Sequence
+Print Fibonacci sequence using 2 variables
+Print Fibonacci Series in reverse order
+Count even length binary sequences with same sum of first and second half bits
+Sequences of given length where every element is more than or equal to twice of previous
+Longest Common Subsequence
+Longest Repeated Subsequence
+Longest Increasing Subsequence
+A Space Optimized Solution of LCS
+LCS (Longest Common Subsequence) of three strings
+Maximum sum Bi-tonic Sub-sequence
+Maximum Sum Increasing Subsequence
+Maximum product of an increasing subsequence
+Count all subsequences having product less than K
+Maximum subsequence sum such that no three are consecutive
+Longest subsequence such that difference between adjacents is one
+Maximum length subsequence with difference between adjacent elements as either 0 or 1
+Maximum sum increasing subsequence from a prefix and a given element after prefix is must
+
+
+
+Maximum Length Chain of Pairs
+Print Maximum Length Chain of Pairs
+Path with maximum average value
+Maximum games played by winner
+Maximum path sum in a triangle
+Minimum Sum Path in a Triangle
+Maximum sum of a path in a Right Number Triangle
+Size of The Subarray With Maximum Sum
+Maximum sum of pairs with specific difference
+Maximum size square sub-matrix with all 1s
+Maximum number of segments of lengths a, b and c
+Recursively break a number in 3 parts to get maximum sum
+Maximum value with the choice of either dividing or considering as it is
+Maximum weight path ending at any element of last row in a matrix
+Maximum sum in a 2 x n grid such that no two elements are adjacent
+Maximum difference of zeros and ones in binary string | Set 2 (O(n) time)
+Maximum path sum for each position with jumps under divisibility condition
+Maximize the sum of selected numbers from an array to make it empty
+Maximum subarray sum in an array created after repeated concatenation
+Maximum path sum that starting with any cell of 0-th row and ending with any cell of (N-1)-th row
+Min Cost Path
+Minimum number of jumps to reach end
+Minimum cost to fill given weight in a bag
+Minimum sum of multiplications of n numbers
+Minimum removals from array to make max – min <= K
+Minimum steps to minimize n as per given condition
+Minimum number of edits ( operations ) require to convert string 1 to string 2
+Minimum time to write characters using insert, delete and copy operation
+Longest Common Substring
+Longest Common Substring (Space optimized DP solution)
+Sum of all substrings of a string representing a number | Set 1
+Find number of endless points
+Find n-th element from Stern’s Diatomic Series
+Find maximum possible stolen value from houses
+Find number of solutions of a linear equation of n variables
+Count number of ways to reach a given score in a game
+Count ways to reach the nth stair using step 1, 2 or 3
+Count of different ways to express N as the sum of 1, 3 and 4
+Count ways to build street under given constraints
+Count Balanced Binary Trees of Height h
+Counting pairs when a person can form pair with at most one
+Counts paths from a point to reach Origin
+Count number of ways to cover a distance
+Count of arrays having consecutive element with different values
+Count ways to divide circle using N non-intersecting chords
+Count the number of ways to tile the floor of size n x m using 1 x m size tiles
+Count all possible paths from top left to bottom right of a mXn matrix
+Count number of ways to fill a “n x 4” grid using “1 x 4” tiles
+Largest Sum Contiguous Subarray
+Smallest sum contiguous subarray
+Size of array after repeated deletion of LIS
+Remove array end element to maximize the sum of product
+Convert to Strictly increasing array with minimum changes
+Longest alternating (positive and negative) subarray starting at every index
+Ways to sum to N using array elements with repetition allowed
+Unique paths in a Grid with Obstacles
+Number of n-digits non-decreasing integers
+Number of ways to arrange N items under given constraints
+Probability of reaching a point with 2 or 3 steps at a time
+Value of continuous floor function : F(x) = F(floor(x/2)) + x
+Number of decimal numbers of length k, that are strict monotone
+Different ways to sum n using numbers greater than or equal to m
